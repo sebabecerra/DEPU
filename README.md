@@ -1,2 +1,2 @@
-# depu.github.io
+# depu
 Depu Becerra &amp; Sagner
