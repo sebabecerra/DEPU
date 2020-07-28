@@ -32,7 +32,7 @@ Chile employing information that was obtained from Twitter accounts using web sc
 zon. These features, and others discussed in the paper, highlight the usefulness of the proposed metric as an additional indicator that policymakers can incorporate into their monitoring toolkit.
 </p></font>
 
-[Data](https://drive.google.com/file/d/1pB6fyrfBkIO8QoDTZeh6a7liQux3hEar/view)
+[Data]()
 <br>
 <!-- [Paper](https://drive.google.com/file/d/1lLixKTiuunU0tAJz38YPS9mW4sT7QqNr/view?usp=sharing) -->
 [Paper](https://www.bcentral.cl/documents/33528/133326/dtbc883.pdf/ad65f9fd-c263-a5a5-ba2c-eb9af6c2c7ce?t=1595449144477)
